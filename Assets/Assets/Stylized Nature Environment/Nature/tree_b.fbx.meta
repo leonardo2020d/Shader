@@ -28,7 +28,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: branch_tex
-    second: {fileID: 2100000, guid: 84dcc5ed02d35fe408007b404963d415, type: 2}
+    second: {fileID: 2100000, guid: e6d32ffaff7d2b443a899e6afedfc5f3, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
